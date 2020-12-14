@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my capstone project for Hackbright Academy.
-- 🌱 I’m currently learning full-stack development with React Hooks, Webpack, and Flask.
-- 👯 I’m looking to collaborate on fun and challenging problems for intermediate programmers.
-- 🤔 I’m looking for help with understanding more conceptual topics such as computation, runtime, and neural networking.
+- 🔭 I’m currently working on recreating my portfolio and practicing LeetCode/Take-Home challenges.
+- 🌱 I’m currently learning data visualization.
+- 👯 I’m looking to collaborate on fun and challenging problems for advanced programmers.
+- 🤔 I’m looking for help with understanding production-level engineering (CI/CD, Kubernetes, etc.).
 - 💬 Ask me about my insane journey that led me to be mostly self-taught.
 - 📫 How to reach me: good ol' email.
 - 😄 Pronouns: She/her
