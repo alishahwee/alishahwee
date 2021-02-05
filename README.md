@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with understanding software architecture and design systems.
 - 💬 Ask me about my insane journey that led me to be mostly self-taught.
 - 📫 How to reach me: good ol' email.
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I can make loon calls.
+- 😄 Pronouns: She/her/hers
+- ⚡ Fun fact: I can make loon calls and I don't like chocoate cake.
