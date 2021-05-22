@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently in a rotation with Target as a software engineer (Technology Leadership Program)!
-- 🌱 I’m currently learning Java, Spring, CI/CD, and TDD.
+- 🌱 I’m currently learning Spring, Docker, CI/CD, Express, and MongoDB/Mongoose.
 - 👯 I’m looking to collaborate on fun and challenging problems for advanced programmers.
 - 🤔 I’m looking for help with understanding software architecture and design systems.
 - 💬 Ask me about my insane journey that led me to be mostly self-taught.
