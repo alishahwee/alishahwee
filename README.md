@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently in a rotation with Target as a software engineer (Technology Leadership Program)!
-- 🌱 I’m currently learning ML with CV.
+- 🔭 I’m currently on my 2nd rotation with Target as a software engineer (Technology Leadership Program)!
+- 🌱 I’m currently learning about AI.
 - 👯 I’m looking to collaborate on fun and challenging problems for advanced programmers.
 - 🤔 I’m looking for advice on how to progress in my SWE career.
 - 💬 Ask me about my journey that led me to be mostly self-taught.
